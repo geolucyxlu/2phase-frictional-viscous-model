@@ -1,0 +1,16 @@
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Lu"
+  given-names: "Lucy"
+  orcid: "https://orcid.org/0000-0001-6089-0058"
+- family-names: "Beall"
+  given-names: "Adam"
+  orcid: "https://orcid.org/0000-0002-7182-1864"
+- family-names: "Fagereng"
+  given-names: "\AA ke" 
+  orcid: "https://orcid.org/0000-0001-6335-8534"
+title: "Effective Bulk Rheology of a Two-phase Subduction Shear Zone: Insights from Micromechanics-based Modelling and Implications for Subduction Interface Slow Slip Events"
+version: 1.0.0
+doi: 10.5281/zenodo.13284551
+date-released: 2024-08-09
+url: "https://github.com/geolucyxlu/2phase-frictional-viscous-model"
