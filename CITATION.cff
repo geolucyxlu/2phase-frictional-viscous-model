@@ -1,3 +1,4 @@
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Lu"
@@ -13,5 +14,4 @@ title: "2phase-frictional-viscous-model"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2024-08-14
-Resource type: Software
 url: "https://github.com/geolucyxlu/2phase-frictional-viscous-model"
